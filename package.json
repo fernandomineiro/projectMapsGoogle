@@ -1,6 +1,5 @@
 {
-  "name": "using-google-maps",
-  "homepage": "https://lauratoddcode.github.io/using-google-maps/",
+  "name": "maps",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
